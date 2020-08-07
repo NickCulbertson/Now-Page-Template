@@ -8,8 +8,8 @@ a:hover {
 
 body {
     height: 100%;
-    color: #333;
-    background-color: #EEE;
+    color: #24292e;
+    background-color: #fff;
     margin: auto;
     padding: 10px;
     max-width: 800px;
@@ -66,7 +66,7 @@ h2 {
 
 h3 {
   font-size: 20px;
-  color: #666;
+  color: #64696e;
   margin-bottom: 10px;
   margin-top: 30px;
 }
@@ -74,11 +74,11 @@ h3 {
 hr {
     margin-left: -10px;
     margin-right: -10px;
-    color: #888;
+    color: #74797e;
 }
 
 i {
-    color: #888;
+    color: #74797e;
     text-align: left;
 }
 
@@ -104,18 +104,18 @@ p {
 
 .subtle {
     text-align: center;
-    color: #888;
+    color: #74797e;
     font-size: 16px;
 }
 
 .subtleLeft {
     text-align: left;
     padding-top: 20px;
-    color: #888;
+    color: #74797e;
 }
 
 .textBubbleDiv {
-    background-color: #444;
+    background-color: #44494e;
     text-align: center;
     max-width:  280px;
     display: block;
