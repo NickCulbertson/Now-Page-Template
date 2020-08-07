@@ -24,7 +24,7 @@ Now Page Template:
 
 ![Now Page Template Light](https://github.com/NickCulbertson/VidTest/blob/master/now2.png)
 
-Now Page Template:
+Now Page Template (Dark Mode):
 
 ![Now Page Template Dark](https://github.com/NickCulbertson/VidTest/blob/master/now3.png)
 
