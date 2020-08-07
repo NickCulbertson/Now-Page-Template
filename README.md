@@ -1,2 +1,76 @@
-# Now-Page-Template
-Now Page Template is an Open Source HTML Template to create a Now page for your site. It's Mobile-First, Social Media optimized, and easy as adding a page to your site. Visit https://nownownow.com/about for more detail.
+# Now Page Template
+
+An Open Source HTML Template to create a Now page for your site. It's as easy as adding a page to your site. Visit https://nownownow.com/about for more detail on what a Now page is, and why you should make one, too.
+
+## Features
+
+• Clean Mobile-First Design
+
+• Attractive Social Media Embeds
+
+• Easy to Use
+
+• Fully Customizable & Open Source
+
+## Demos
+
+My Now Page: [http://www.mobypixel.com/now](http://www.mobypixel.com/now)
+
+![My Now Page](https://github.com/NickCulbertson/VidTest/blob/master/now1.png)
+
+Now Page Template
+
+![Now Page Template](https://github.com/NickCulbertson/VidTest/blob/master/now2.png)
+
+## Implementation
+
+1. Download the "now" folder. Here you will find now.html, now.css, and an image folder.
+
+now.html - The page people will see when they visit `http://www.YOUR_WEBSITE_NAME.com/now`
+
+now.css - The styles for this page.
+
+img - This is where all the Cover art for the page and social badges are stored.
+
+2. Open the now.html in a code editor and update it with all your information.
+
+3. Adding your cover artwork by replacing the "cover.png" file in the img folder.
+
+4. Add the entire files to your site's root directory. Now your page is available at
+`http://www.YOUR_WEBSITE_NAME.com/YOUR_FOLDER_NAME`
+
+5. Share the link and do the happy dance!
+
+## Optional Features
+
+By default, the cover image will be square. If you want a rectangular cover image, you can change height and width values of `.coverArt` in the `now.css` file:
+```
+now.css
+
+.coverArt {
+    ...
+    height:  320px;
+    width:   320px;
+    ...
+}
+```
+
+## About Now Page Template
+
+I was immediately smitten by the idea of creating a Now page. At first, I just made another page off of my site but it was suffering from severe code bloat. So I made a stripped down version with only what was needed. I'm making this template Open Source because I want to empower creatives to support themselves. I hope it helps you to build a deeper connection with your followers! 
+
+If you have any questions, suggestions, or feedback please send them my way. This is as much for me as it is for you. If you use it, send me a link! I'd love to see what you're up to now. 
+
+Enjoy!
+
+Nick Culbertson [@MobyPixel](https://twitter.com/MobyPixel)
+
+[MobyPixel.com](http://www.mobypixel.com)
+
+
+## Want to support this project?
+
+Share the project and/or drop some change in the tip jar. If I've saved you some time in development, please compensate my efforts so that I can keep making cool stuff. Donations are not required, but greatly appreciated! :D
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HKHYVRMC53W7C)
+
