@@ -8,6 +8,8 @@ An Open Source HTML Template to create a Now page for your site. It's as easy as
 
 • Attractive Social Media Embeds
 
+• Supports Light & Dark Mode
+
 • Easy to Use
 
 • Fully Customizable & Open Source
@@ -18,9 +20,13 @@ My Now Page: [http://www.mobypixel.com/now](http://www.mobypixel.com/now)
 
 ![My Now Page](https://github.com/NickCulbertson/VidTest/blob/master/now1.png)
 
-Now Page Template
+Now Page Template:
 
-![Now Page Template](https://github.com/NickCulbertson/VidTest/blob/master/now2.png)
+![Now Page Template Light](https://github.com/NickCulbertson/VidTest/blob/master/now2.png)
+
+Now Page Template (Dark Mode):
+
+![Now Page Template Dark](https://github.com/NickCulbertson/VidTest/blob/master/now3.png)
 
 ## Implementation
 
