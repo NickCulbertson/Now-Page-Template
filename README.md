@@ -16,9 +16,15 @@ An Open Source HTML Template to create a Now page for your site. It's as easy as
 
 My Now Page: [http://www.mobypixel.com/now](http://www.mobypixel.com/now)
 
+![My Now Page](https://github.com/NickCulbertson/VidTest/blob/master/now1.png)
+
+Now Page Template
+
+![Now Page Template](https://github.com/NickCulbertson/VidTest/blob/master/now2.png)
+
 ## Implementation
 
-1. Download the "Now" folder. Here you will find now.html, now.css, and an image folder.
+1. Download the "now" folder. Here you will find now.html, now.css, and an image folder.
 
 now.html - The page people will see when they visit `http://www.YOUR_WEBSITE_NAME.com/now`
 
