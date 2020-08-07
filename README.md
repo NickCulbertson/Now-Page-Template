@@ -55,6 +55,20 @@ now.css
 }
 ```
 
+Make multiple sections like this:
+```
+now.html
+    ...
+    <!-- Section -->
+    <h2>Section 1 Title</h2>
+    <p>A brief description.</p>
+    
+    <!-- Section -->
+    <h2>Section 2 Title</h2>
+    <p>A brief description.</p>
+    ...
+```
+
 ## About Now Page Template
 
 I was immediately smitten by the idea of creating a Now page. At first, I just made another page off of my site but it was suffering from severe code bloat. So I made a stripped down version with only what was needed. I'm making this template Open Source because I want to empower creatives to support themselves. I hope it helps you to build a deeper connection with your followers! 
