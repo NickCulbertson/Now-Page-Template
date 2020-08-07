@@ -58,15 +58,16 @@ now.css
 Make multiple sections like this:
 ```
 now.html
-    ...
-    <!-- Section -->
-    <h2>Section 1 Title</h2>
-    <p>A brief description.</p>
+
+...
+<!-- Section -->
+<h2>Section 1 Title</h2>
+<p>A brief description.</p>
     
-    <!-- Section -->
-    <h2>Section 2 Title</h2>
-    <p>A brief description.</p>
-    ...
+<!-- Section -->
+<h2>Section 2 Title</h2>
+<p>A brief description.</p>
+...
 ```
 
 ## About Now Page Template
