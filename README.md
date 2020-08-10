@@ -2,6 +2,10 @@
 
 An Open Source HTML Template to create a Now page for your site. It's as easy as adding a page to your site. Visit https://nownownow.com/about for more detail on what a Now page is, and why you should make one, too.
 
+(Click the image to watch the Now Page Template | Introduction & Tutorial)
+
+[![Now Page Template Introduction & Tutorial](https://img.youtube.com/vi/9tQzLvUK-hU/0.jpg)](https://www.youtube.com/watch?v=9tQzLvUK-hU "Now Page Template Introduction & Tutorial")
+
 ## Features
 
 • Clean Mobile-First Design
