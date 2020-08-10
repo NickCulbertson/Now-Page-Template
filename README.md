@@ -1,10 +1,10 @@
 # Now Page Template
 
-An Open Source HTML Template to create a "Now Page" for your site. It's as easy as adding a page to your site. Visit https://nownownow.com/about for more detail on what a "Now Page" is, and why you should make one, too.
+An Open Source HTML Template to create a Now Page for your site. It's as easy as adding a page to your site. Visit https://nownownow.com/about for more detail on what a "Now Page" is, and why you should make one, too.
 
-(Click the image to watch the "Now Page" Template | Introduction & Tutorial)
+(Click the image to watch the Now Page Template | Introduction & Tutorial | Open Source HTML Page)
 
-[!["Now Page" Template Introduction & Tutorial](https://img.youtube.com/vi/9tQzLvUK-hU/0.jpg)](https://www.youtube.com/watch?v=9tQzLvUK-hU "Now Page Template Introduction & Tutorial")
+[![Now Page Template | Introduction & Tutorial | Open Source HTML Page](https://img.youtube.com/vi/9tQzLvUK-hU/0.jpg)](https://www.youtube.com/watch?v=9tQzLvUK-hU "Now Page Template | Introduction & Tutorial | Open Source HTML Page")
 
 ## Features
 
@@ -20,15 +20,15 @@ An Open Source HTML Template to create a "Now Page" for your site. It's as easy 
 
 ## Demos
 
-My "Now Page": [http://www.mobypixel.com/now](http://www.mobypixel.com/now)
+My Now Page: [http://www.mobypixel.com/now](http://www.mobypixel.com/now)
 
-![My "Now Page"](https://github.com/NickCulbertson/VidTest/blob/master/now1.png)
+![My Now Page](https://github.com/NickCulbertson/VidTest/blob/master/now1.png)
 
-"Now Page" Template:
+Now Page Template:
 
 ![Now Page Template Light](https://github.com/NickCulbertson/VidTest/blob/master/now2.png)
 
-"Now Page" Template (Dark Mode):
+Now Page Template (Dark Mode):
 
 ![Now Page Template Dark](https://github.com/NickCulbertson/VidTest/blob/master/now3.png)
 
@@ -99,7 +99,7 @@ now.html
 
 ## About Now Page Template
 
-I was immediately smitten by the idea of creating a Now page. At first, I just made another page off of my site but it was suffering from severe code bloat. So I made a stripped down version with only what was needed. I'm making this template Open Source because I want to empower creatives to support themselves. I hope it helps you to build a deeper connection with your followers! 
+I was immediately drawn to the idea of creating a Now Page. At first, I just made another page off of my site but it was suffering from severe code bloat. So I made a stripped down version with only what was needed. I'm making this template Open Source because I want to empower creatives to support themselves. I hope it helps you to build a deeper connection with your followers! 
 
 If you have any questions, suggestions, or feedback please send them my way. This is as much for me as it is for you. If you use it, send me a link! I'd love to see what you're up to now. 
 
