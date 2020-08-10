@@ -49,15 +49,19 @@ img - This is where all the Cover art for the page and social badges are stored.
 
 ## Optional Features
 
-By default, the cover image will be square. If you want a rectangular cover image, you can change height and width values of `.coverArt` in the `now.css` file:
+By default, the cover image will be square. If you want a rectangular cover image, you can change height and width values of `.coverArt` and `.coverDiv` (height of container) in the `now.css` file:
 ```
 now.css
 
 .coverArt {
     ...
-    height:  320px;
-    width:   320px;
+    max-height:  320px;
+    max-width:   320px;
     ...
+}
+
+.coverDiv {
+    height: 320px;
 }
 ```
 
