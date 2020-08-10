@@ -38,6 +38,10 @@ body {
     -webkit-transform: translateZ(0);
 }
 
+.coverDiv {
+    height: 320px;
+}
+
 .descriptionDiv {
     display: block;
     margin-left: auto;
