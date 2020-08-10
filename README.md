@@ -65,7 +65,20 @@ now.css
 }
 ```
 
+Delete this line to remove the image corner rounding:
+
+```
+now.css
+
+.coverArt {
+    ...
+    border-radius: 160px 160px 160px 160px;
+    ...
+}
+```
+
 Make multiple sections like this:
+
 ```
 now.html
 
