@@ -1,10 +1,10 @@
 # Now Page Template
 
-An Open Source HTML Template to create a Now page for your site. It's as easy as adding a page to your site. Visit https://nownownow.com/about for more detail on what a Now page is, and why you should make one, too.
+An Open Source HTML Template to create a "Now Page" for your site. It's as easy as adding a page to your site. Visit https://nownownow.com/about for more detail on what a "Now Page" is, and why you should make one, too.
 
-(Click the image to watch the Now Page Template | Introduction & Tutorial)
+(Click the image to watch the "Now Page" Template | Introduction & Tutorial)
 
-[![Now Page Template Introduction & Tutorial](https://img.youtube.com/vi/9tQzLvUK-hU/0.jpg)](https://www.youtube.com/watch?v=9tQzLvUK-hU "Now Page Template Introduction & Tutorial")
+[!["Now Page" Template Introduction & Tutorial](https://img.youtube.com/vi/9tQzLvUK-hU/0.jpg)](https://www.youtube.com/watch?v=9tQzLvUK-hU "Now Page Template Introduction & Tutorial")
 
 ## Features
 
@@ -20,15 +20,15 @@ An Open Source HTML Template to create a Now page for your site. It's as easy as
 
 ## Demos
 
-My Now Page: [http://www.mobypixel.com/now](http://www.mobypixel.com/now)
+My "Now Page": [http://www.mobypixel.com/now](http://www.mobypixel.com/now)
 
-![My Now Page](https://github.com/NickCulbertson/VidTest/blob/master/now1.png)
+![My "Now Page"](https://github.com/NickCulbertson/VidTest/blob/master/now1.png)
 
-Now Page Template:
+"Now Page" Template:
 
 ![Now Page Template Light](https://github.com/NickCulbertson/VidTest/blob/master/now2.png)
 
-Now Page Template (Dark Mode):
+"Now Page" Template (Dark Mode):
 
 ![Now Page Template Dark](https://github.com/NickCulbertson/VidTest/blob/master/now3.png)
 
@@ -47,7 +47,7 @@ img - This is where all the Cover art for the page and social badges are stored.
 3. Adding your cover artwork by replacing the "cover.png" file in the img folder.
 
 4. Add the entire files to your site's root directory. Now your page is available at
-`http://www.YOUR_WEBSITE_NAME.com/YOUR_FOLDER_NAME`
+`http://www.YOUR_WEBSITE_NAME.com/now`
 
 5. Share the link and do the happy dance!
 
