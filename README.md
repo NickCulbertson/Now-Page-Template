@@ -46,7 +46,7 @@ img - This is where all the Cover art for the page and social badges are stored.
 
 3. Adding your cover artwork by replacing the "cover.png" file in the img folder.
 
-4. Add the entire files to your site's root directory. Now your page is available at
+4. Add the files to your site's root directory. Now your page is available at
 `http://www.YOUR_WEBSITE_NAME.com/now`
 
 5. Share the link and do the happy dance!
