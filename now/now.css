@@ -110,6 +110,12 @@ a:hover {
     vertical-align: middle;
 }
 
+.socialLink2 {
+    height: 25px;
+    margin-left: 2px;
+    vertical-align: middle;
+}
+
 .subtle {
     text-align: center;
     color: #777;
